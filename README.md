@@ -89,8 +89,3 @@ This project is open-source under the MIT license. Feel free to modify, distribu
 ---
 
 Developed with care and rigor in C to provide a fast and reliable autocomplete solution.
-
-```
-
-This README effectively communicates your project's purpose, structure, usage instructions, and expected inputs/outputs clearly and professionally.
-```
